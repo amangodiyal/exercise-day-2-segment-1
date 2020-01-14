@@ -16,45 +16,46 @@
 
 `Pesto Username - Favourite Author`
 
-## Restrictions 
+## Restrictions
+
 - You can only make one PR.
 - Once created, don't close and open another PR.
 - Once forked, you can't re-fork the repository later.
 
 ## Entries
 
-|Username| Favourite Authors|
-|---|--|
-|**arfat** | Neal Stephenson/Bill Bryson/Paulo Coelho  |
-|**andrew** | Robert M. Pirsig|
-|**nishant** | daniel kahneman|
-|**anirudh** | Phil Knight  |
-|**Vipul** | Richard Dawkins  |
-|**shashank36** | Dan Brown  |
-|**shikhardb** | Mark Twain  |
-|**Rishabh1403** | Sir Aurthur Conan Doyle  |
-|**niinpatel** | George Orwell  |
-|**vikash** | Charlie Brooker  |
-|**Shalini** | J.K Rowling  |
-|**Ankit** |Tony Robbins  |
-|**shivangg** | Alfred Hitchcock  |
-|**Rishabh1403** | Sir Aurthur Conan Doyle  |
-|**niinpatel** | George Orwell  |
-|**vikash** | Charlie Brooker  |
-|**Prabhakar-Poudel** | Robert Louis Stevenson  |
-|**Manish** | Robin Sharma  |
-|**rakeshtembhurne** | Stephen R. Covey  |
-|**Jaspreet Singh** | Kathy Sierra|
-|**kanavaz** | Ben Horowitz/DHH |
-|**Karan** | Sir Arthur Conan Doyle  |
-|**Navneet** | Leo Tolstoy |
-|**SOMARAN** | Johnathon Livingston |  
-|**mbtamuli** | J.K Rowling | 
+| Username             | Favourite Authors                        |
+| -------------------- | ---------------------------------------- |
+| **arfat**            | Neal Stephenson/Bill Bryson/Paulo Coelho |
+| **andrew**           | Robert M. Pirsig                         |
+| **nishant**          | daniel kahneman                          |
+| **anirudh**          | Phil Knight                              |
+| **Vipul**            | Richard Dawkins                          |
+| **shashank36**       | Dan Brown                                |
+| **shikhardb**        | Mark Twain                               |
+| **Rishabh1403**      | Sir Aurthur Conan Doyle                  |
+| **niinpatel**        | George Orwell                            |
+| **vikash**           | Charlie Brooker                          |
+| **Shalini**          | J.K Rowling                              |
+| **Ankit**            | Tony Robbins                             |
+| **shivangg**         | Alfred Hitchcock                         |
+| **Rishabh1403**      | Sir Aurthur Conan Doyle                  |
+| **niinpatel**        | George Orwell                            |
+| **vikash**           | Charlie Brooker                          |
+| **Prabhakar-Poudel** | Robert Louis Stevenson                   |
+| **Manish**           | Robin Sharma                             |
+| **rakeshtembhurne**  | Stephen R. Covey                         |
+| **Jaspreet Singh**   | Kathy Sierra                             |
+| **kanavaz**          | Ben Horowitz/DHH                         |
+| **Karan**            | Sir Arthur Conan Doyle                   |
+| **Navneet**          | Leo Tolstoy                              |
+| **SOMARAN**          | Johnathon Livingston                     |
+| **mbtamuli**         | J.K Rowling                              |
 
 ## Preserve these random sentences
 
-The memory we used to share is no longer coherent.    
-Yeah, I think it's a good environment for learning English.    
+The memory we used to share is no longer coherent.  
+Yeah, I think it's a good environment for learning English.  
 She only paints with bold colors; she does not like pastels.  
 The quick brown fox jumps over the lazy dog.  
 We have never been to Asia, nor have we visited Africa.  
@@ -92,7 +93,7 @@ Everyone was busy, so I went to the movie alone.
 She did not cheat on the test, for it was not the right thing to do.  
 Christmas is coming.  
 It was getting dark, and we weren’t there yet.  
-I will never be this young again.   Ever.   Oh damn… I just got older.  
+I will never be this young again. Ever. Oh damn… I just got older.  
 This is a Japanese doll.  
 Wow, does that work?
 I think I will buy the red car, or I will lease the blue one.  
@@ -102,11 +103,11 @@ Hurry!
 Cats are good pets, for they are clean and are not noisy.  
 She always speaks to him in a loud voice.  
 I currently have 4 windows open up… and I don’t know why.  
-Last Friday in three week’s time I saw a spotted striped blue worm shake hands with a legless lizard.  
-
+Last Friday in three week’s time I saw a spotted striped blue worm shake hands with a legless lizard.
 
 # Batch 12 - Put your authors below this line
 
 - rishabh1403 - some author
 - Add your entry after this line
 - add after this line
+  amangodiyal - Chetan Bhagat
